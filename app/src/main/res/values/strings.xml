@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MemoryGameTemplate</string>
+    <string name="tvPairs">Pairs: ${memoryGame.numPairsFound} / ${boardSize.getNumPairs()}</string>
+</resources>
