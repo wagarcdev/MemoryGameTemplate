@@ -12,6 +12,6 @@ Create your own memory game by choosing photos from your phone.
 3 levels of difficulty
 
 
-Based on the project of Rahul Pandey: [github project](https://github.com/rpandey1234/MyMemory)
+Based on the project of Rahul Pandey: [MyMemory](https://github.com/rpandey1234/MyMemory)
 
 
