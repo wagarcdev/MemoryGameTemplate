@@ -10,7 +10,9 @@ O Memory Game Template é um aplicativo Android desenvolvido em Kotlin que permi
 
 ## Demonstração 🎥
 
-Confira a [demonstração em GIF do Memory Game Template](https://raw.githubusercontent.com/wagarcdev/MemoryGameTemplate/master/app/src/main/res/blob/game_gif.gif) para ver o jogo em ação!
+<p align="center">
+    <img src="https://raw.githubusercontent.com/wagarcdev/MemoryGameTemplate/master/app/src/main/res/blob/game_gif.gif" alt="Demonstração do Memory Game Template" style="width: 100%">
+</p>
 
 ## Recursos Principais ⭐️
 
